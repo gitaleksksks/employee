@@ -11,7 +11,7 @@
    Для этого можете использовать скрипт ```init.sql``` в папке ***\src\main\resources***<br/>
 
 4. Настройте файл характеристик<br/>
-   В файле ***\src\main\resources\application.properties*** замените имя и пароль от базы данных на ваше<br/>
+   В файле ***\src\main\resources\application.properties*** замените имя и пароль от базы данных на ваши<br/>
    Пример:<br/>
    ```
    spring.datasource.username=your_username
